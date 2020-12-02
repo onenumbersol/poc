@@ -304,7 +304,7 @@ spec:
         name: server-xml-config
   containers:
     - name: tomcat
-      image: 'custom-tomcat
+      image: 'custom-tomcat'
       ports:
         - name: http
           containerPort: 8888

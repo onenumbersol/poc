@@ -501,6 +501,6 @@ spec:
           name: cloudinitdisk
 ```
 
-[1]: https://github.com/onenumbersol/poc/blob/main/202011/network-policy.png
+[1]: https://github.com/onenumbersol/poc/blob/main/202011/network-policy.jpg
 [2]: https://github.com/onenumbersol/poc/blob/main/202011/cicd.png
 [3]: https://github.com/onenumbersol/poc/blob/main/202011/efk.png

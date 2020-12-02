@@ -274,6 +274,8 @@ spec:
 
 (2) EFK
 
+![3]
+
 - EFK의 경우 시스템 로그와 사이드카 컨테이너를 통한 어플리케이션 로그 수집 확인
 
 - 어플리케이션 로그 수집 예
@@ -501,3 +503,4 @@ spec:
 
 [1]: https://github.com/onenumbersol/poc/blob/main/202011/network-policy.png
 [2]: https://github.com/onenumbersol/poc/blob/main/202011/cicd.png
+[3]: https://github.com/onenumbersol/poc/blob/main/202011/efk.png
